@@ -30,7 +30,7 @@ This is how we can add new components to the canvas:
 // Append components directly to the canvas
 editor.addComponents(`<div>
   <img src="https://path/image" />
-  <span title="foo">Hello world!!!</span>
+  <span title="foo">Hello world my bitch!!!</span>
 </div>`);
 
 // or into some, already defined, component.
